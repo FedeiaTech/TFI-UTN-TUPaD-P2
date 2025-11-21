@@ -15,6 +15,12 @@
 ## Video Demostrativo
 🔗 [Ver video explicativo en YouTube](https://youtu.be/1gK8EBLzP08)
 
+## Repositorio de maquetacón: 
+🔗 [Link](https://github.com/GonzaVega/TrabajoFinalIntegradorProgramacion2)
+
+Facilitó la colaboración, aseguró la consistencia del diseño, permitió la preservación a largo plazo de los archivos y mantuvo un control de calidad sobre el proyecto. (Aquí pueden verse los commit de los integrantes)
+
+
 ---
 
 ## Descripción del Proyecto
